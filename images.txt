@@ -1,5 +1,5 @@
 #skywalking.docker.scarf.sh/apache/skywalking-oap-server
-apache/skywalking-satellite
+apache/skywalking-satellite:v1.2.0
 skywalking.docker.scarf.sh/apache/skywalking-ui
 
 
