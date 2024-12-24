@@ -1,6 +1,8 @@
-skywalking.docker.scarf.sh/apache/skywalking-oap-server:9.7.0
+quay.io/tigera/operator:v1.29.3
+
+#skywalking.docker.scarf.sh/apache/skywalking-oap-server:9.7.0
 #apache/skywalking-satellite:v1.2.0
-skywalking.docker.scarf.sh/apache/skywalking-ui:9.7.0
+#skywalking.docker.scarf.sh/apache/skywalking-ui:9.7.0
 
 
 #busybox:1.32
