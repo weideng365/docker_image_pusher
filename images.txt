@@ -1,4 +1,7 @@
-quay.io/metallb/controller:v0.13.5
+mcr.microsoft.com/windows/servercore:ltsc2016
+
+
+#quay.io/metallb/controller:v0.13.5
 
 #quay.io/tigera/operator:v1.29.3
 
