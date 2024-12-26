@@ -1,4 +1,6 @@
-mysql:5.7.44
+prom/mysqld-exporter
+
+#mysql:5.7.44
 
 #mcr.microsoft.com/windows/servercore:ltsc2016
 
