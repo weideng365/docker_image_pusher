@@ -1,4 +1,6 @@
-mcr.microsoft.com/windows/servercore:ltsc2016
+mysql:5.7.44
+
+#mcr.microsoft.com/windows/servercore:ltsc2016
 
 
 #quay.io/metallb/controller:v0.13.5
