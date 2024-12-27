@@ -1,4 +1,6 @@
-redis:7.2.6
+
+redislabs/redisinsight:2.64
+#redis:7.2.6
 
 #prom/mysqld-exporter
 
