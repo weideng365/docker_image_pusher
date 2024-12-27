@@ -1,4 +1,6 @@
-prom/mysqld-exporter
+redis:7.2.6
+
+#prom/mysqld-exporter
 
 #mysql:5.7.44
 
