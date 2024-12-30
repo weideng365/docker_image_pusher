@@ -1,4 +1,16 @@
-nacos/nacos-server:v2.4.3
+repository: bitnami/os-shell:11-debian-11-r94
+repository: bitnami/nginx:1.25.3-debian-11-r4
+repository: bitnami/harbor-portal:2.10.0-debian-11-r1
+repository: bitnami/harbor-core:2.10.0-debian-11-r1
+repository: bitnami/harbor-jobservice:2.10.0-debian-11-r2
+repository: bitnami/harbor-registry:2.10.0-debian-11-r1
+repository: bitnami/harbor-registryctl:2.10.0-debian-11-r1
+repository: bitnami/harbor-adapter-trivy:2.10.0-debian-11-r1
+repository: bitnami/harbor-exporter:2.10.0-debian-11-r1
+bitnami/postgresql:13.13.0-debian-11-r22
+
+
+#nacos/nacos-server:v2.4.3
 
 #minio/minio:RELEASE.2024-08-29T01-40-52Z
 
