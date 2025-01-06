@@ -1,6 +1,5 @@
-elasticsearch:8.17.0
-kibana:8.17.0
-
+elastic/elasticsearch:8.16.2
+elastic/kibana:8.16.2
 
 #a79520/centos7.9:latest
 
