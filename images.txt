@@ -16,7 +16,7 @@ feiyu563/prometheus-alert:v4.9.1
 #registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
 #quay.io/prometheus-operator/prometheus-operator:v0.76.2
 #quay.io/brancz/kube-rbac-proxy:v0.18.1
-
+quay.io/prometheus-operator/prometheus-config-reloader:v0.57.0
 
 #elastic/elasticsearch:8.16.2
 #elastic/kibana:8.16.2
