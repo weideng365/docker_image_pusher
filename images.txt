@@ -1,4 +1,6 @@
-bitnami/redis-exporter:latest
+feiyu563/prometheus-alert:v4.9.1
+
+#bitnami/redis-exporter:latest
 
 #quay.io/prometheus/alertmanager:v0.27.0
 #quay.io/prometheus/blackbox-exporter:v0.25.0
