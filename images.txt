@@ -1,3 +1,5 @@
+/milvus:v2.5.5
+
 #mysql:8.0
 #redis:7.0
 #quay.io/minio/minio:latest
@@ -5,7 +7,7 @@
 #quay.io/coreos/etcd:v3.5.5
 #milvusdb/milvus:v2.3.4
 #jianjungki/mineru:latest
-zilliz/attu:v2.3.4
+#zilliz/attu:v2.3.4
 #prom/prometheus:v2.45.0
 #grafana/grafana:10.0.3
 
