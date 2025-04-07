@@ -1,13 +1,13 @@
-mysql:8.0
-redis:7.0
-quay.io/minio/minio:latest
+#mysql:8.0
+#redis:7.0
+#quay.io/minio/minio:latest
 #neo4j:5.14
 #quay.io/coreos/etcd:v3.5.5
 #milvusdb/milvus:v2.3.4
 #jianjungki/mineru:latest
-#zilliztech/attu:v2.3.4
-prom/prometheus:v2.45.0
-grafana/grafana:10.0.3
+zilliz/attu:v2.3.4
+#prom/prometheus:v2.45.0
+#grafana/grafana:10.0.3
 
 #ghcr.io/1panel-dev/maxkb-vector-model:v1.0.1
 #node:18-alpine3.18
