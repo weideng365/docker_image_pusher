@@ -1,4 +1,4 @@
-/milvus:v2.5.5
+milvus:v2.5.5
 
 #mysql:8.0
 #redis:7.0
