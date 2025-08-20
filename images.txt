@@ -1,4 +1,6 @@
-milvus:v2.5.5
+docker.io/python:3.10-slim
+
+#milvus:v2.5.5
 
 #mysql:8.0
 #redis:7.0
