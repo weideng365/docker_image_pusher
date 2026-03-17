@@ -1,4 +1,23 @@
-gpustack/gpustack:latest
+#gpustack/gpustack:latest
+
+#镜像名称与标签
+gpustack/gpustack:v2.1.0
+gpustack/runner:cuda12.9-sglang0.5.9
+gpustack/runner:cuda12.9-sglang0.5.8.post1
+gpustack/runner:cuda12.9-sglang0.5.7
+gpustack/runner:cuda12.9-sglang0.5.6.post2
+gpustack/runner:cuda12.9-vllm0.16.0
+gpustack/runner:cuda12.9-vllm0.15.1
+gpustack/runner:cuda12.9-vllm0.14.1
+gpustack/runner:cuda12.9-vllm0.13.0
+gpustack/runner:cuda12.9-vllm0.12.0
+gpustack/runner:cuda12.9-vllm0.11.2
+gpustack/runtime:pause
+gpustack/benchmark-runner:v0.0.2
+
+
+
+
 #nvidia/cuda:12.8.1-cudnn-runtime-ubuntu22.04
 
 #docker.io/python:3.10-slim
