@@ -1,4 +1,7 @@
-vllm/vllm-openai:latest
+vllm/vllm-openai:nightly
+
+
+#vllm/vllm-openai:latest
 
 
 #gpustack/gpustack:latest
