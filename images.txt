@@ -1,4 +1,4 @@
-vllm/vllm-openai:nightly
+#vllm/vllm-openai:nightly
 
 
 #vllm/vllm-openai:latest
@@ -6,6 +6,7 @@ vllm/vllm-openai:nightly
 
 #gpustack/gpustack:latest
 #镜像名称与标签
+gpustack/runner:cuda12.9-vllm0.17.1
 #gpustack/gpustack:v2.1.0
 #gpustack/runner:cuda12.9-sglang0.5.9
 #gpustack/runner:cuda12.9-sglang0.5.8.post1
