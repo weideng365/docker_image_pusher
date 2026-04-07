@@ -1,4 +1,8 @@
-vllm/vllm-openai:v0.19.0-x86_64-cu130-ubuntu2404
+nginx:alpine
+python:3.10-slim-bookworm
+nvidia/cuda:12.6.0-cudnn-runtime-ubuntu22.04
+
+#vllm/vllm-openai:v0.19.0-x86_64-cu130-ubuntu2404
 
 #vllm/vllm-openai:nightly
 
